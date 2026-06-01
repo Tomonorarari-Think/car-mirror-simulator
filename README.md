@@ -74,6 +74,7 @@ doc/
 ├── MirrorReflection.md     # 実装ロジック・数学的解説
 ├── Architecture.md         # システムアーキテクチャ・レイヤー設計
 ├── ClassReference.md       # クラスリファレンス（公開 API・Inspector 設定）
+├── References.md           # 参考資料一覧（検索キーワード・URL・要点）
 └── image/                  # 解説用 SVG 図
 ```
 
@@ -210,6 +211,7 @@ UI ボタンで操作対象を切り替えます。
 | [doc/MirrorReflection.md](doc/MirrorReflection.md) | 反射行列・オブリーク投影・UV マッピングの数学的解説 |
 | [doc/Architecture.md](doc/Architecture.md) | システムアーキテクチャ・レイヤー設計・依存関係グラフ |
 | [doc/ClassReference.md](doc/ClassReference.md) | 各クラスの公開 API・Inspector 設定・使用上の注意 |
+| [doc/References.md](doc/References.md) | 実装時に参照した Web ページ・動画の一覧（検索キーワード付き） |
 
 ---
 
